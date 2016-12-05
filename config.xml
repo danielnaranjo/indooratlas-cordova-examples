@@ -39,4 +39,6 @@
         <icon height="87" src="www/img/ios/Icon-small@3x.png" width="87" />
     </platform>
     <engine name="android" spec="~6.0.0" />
+    <plugin name="cordova-plugin-spinner" spec="~1.1.0" />
+    <plugin name="cordova-plugin-indooratlas" spec="https://github.com/IndoorAtlas/cordova-plugin.git" />
 </widget>
